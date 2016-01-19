@@ -1,2 +1,2 @@
 # bd
-Repo for my Big Data course at CU:Boulder 2015.
+Repo for my Big Data course at CU:Boulder - Spring 2016.
